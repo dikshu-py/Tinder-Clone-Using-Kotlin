@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cloning2.0</string>
+    <string name="hello_world">Hello</string>
+    <string name="registration">Registration</string>
+    <string name="login">Login</string>
+    <string name="e_mail">E-mail</string>
+    <string name="passward">Passward</string>
+    <string name="submit">Submit</string>
+    <string name="name">name</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="tod9o">TODO</string>
+    <string name="settings">Setting</string>
+    <string name="name22">Name</string>
+    <string name="todo">TODO</string>
+    <string name="mobile_no">Mobile NO.</string>
+    <string name="cconfirm">Confirm</string>
+</resources>
